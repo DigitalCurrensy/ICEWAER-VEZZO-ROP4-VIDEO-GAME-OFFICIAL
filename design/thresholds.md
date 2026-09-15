@@ -1,0 +1,21 @@
+# Verification thresholds
+
+- Target FPS: 60; red build below 45 average FPS.
+- DPR cap: 1.25.
+- Draw-call proxy budget: 80 per frame on mobile; canvas draw operations sampled in dev mode.
+- Worst-case scene: boost active, dense traffic, three billboards visible, rain, particles, pickup feedback, complete HUD.
+- Input acknowledgment: <=100 ms.
+- Screen transition duration: 300–800 ms.
+- Launch to gameplay: <=2 actions from Home; <=1 action from equipped Garage state.
+- Touch target minimum: 44 CSS px; primary mobile controls target >=56 CSS px.
+- Smallest supported viewport: 360x560 CSS px portrait and 667x375 CSS px landscape; primary controls remain inside safe-area insets.
+- Text minimum: 12 CSS px metadata, 14 CSS px instructions, 16 CSS px primary controls.
+- No horizontal overflow; no clipped primary controls; no overlapping Garage rows/buttons at 360x560, 390x844, 667x375, 768x1024, 1366x768.
+- Legend Plate row must remain visible and tappable with touch-only input at every supported mobile viewport.
+- Web Audio must enter `running` after the first direct touch gesture when Sound is on, and resume after returning from background.
+- Mobile result-card action must invoke native file sharing when supported, with a downloadable PNG fallback.
+- Share fallback must always expose Copy Link and Download Result Card.
+- Native share cancellation is not an error; failed native share returns visible fallback confirmation.
+- Album artwork is always drawn with contain-fit and original proportions; zero stretching and zero text overlays across key artwork.
+- Billboards: first major album billboard visible within first 8 seconds; later major billboards spaced at least 10 seconds apart.
+- Smoke route: Home → Garage → select → Drive This Car → complete/force result → Copy Link → Download Result Card → Play Again → Home.

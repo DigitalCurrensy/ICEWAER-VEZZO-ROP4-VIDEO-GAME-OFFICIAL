@@ -1,0 +1,18 @@
+id,role,type,description,size/ratio,style line ref,source,status
+hero,player-sprite,image,white ROP 4 luxury sedan rear three-quarter,original PNG,STYLE FORMULA,existing CDN,ready
+carB,traffic-sprite,image,black luxury traffic sedan,original PNG,STYLE FORMULA,existing CDN,ready
+carS,traffic-sprite,image,white SUV traffic vehicle,original PNG,STYLE FORMULA,existing CDN,ready
+carC,traffic-sprite,image,silver sports traffic vehicle,original PNG,STYLE FORMULA,existing CDN,ready
+carD,traffic-sprite,image,dark supercar traffic vehicle,original PNG,STYLE FORMULA,existing CDN,ready
+carE,traffic-sprite,image,luxury traffic vehicle,original PNG,STYLE FORMULA,existing CDN,ready
+carF,traffic-sprite,image,luxury traffic vehicle,original PNG,STYLE FORMULA,existing CDN,ready
+pint,pickup-sprite,image,purple pint collectible,original PNG,STYLE FORMULA,existing CDN,ready
+chain,pickup-sprite,image,diamond chain shield collectible,original PNG,STYLE FORMULA,existing CDN,ready
+cash,pickup-sprite,image,cash collectible,original PNG,STYLE FORMULA,existing CDN,ready
+city,background-l1,image,Detroit night skyline layer,original PNG,STYLE FORMULA,existing CDN,ready
+city2,background-l2,image,Detroit night skyline layer,original PNG,STYLE FORMULA,existing CDN,ready
+city3,background-l3,image,Detroit night skyline layer,original PNG,STYLE FORMULA,existing CDN,ready
+title,home-hero-background,image,white sedan Detroit launch scene,16:9,STYLE FORMULA,existing CDN,ready
+albumA,album-cover-left-billboard,image,exact supplied spray-painted ROP 4 album cover,original square ratio,STYLE FORMULA,user reference,ready
+albumB,album-cover-right-billboard,image,exact supplied Rich Off Pints 4 grille album cover,original square ratio,STYLE FORMULA,user reference,ready
+theme,soundtrack,audio,existing artist theme track,MP3,STYLE FORMULA,existing deployed asset,ready
