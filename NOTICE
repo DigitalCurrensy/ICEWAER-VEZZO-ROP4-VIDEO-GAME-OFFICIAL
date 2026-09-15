@@ -1,0 +1,106 @@
+NOTICE
+ICEWEAR VEZZO — ROP 4 (Rich Off Pints 4)
+6 Mile Night Run
+
+This file is the human-readable lock. LICENSE is the legal lock.
+They say the same thing. Read this first.
+
+--------------------------------------------------------------------
+WHAT THIS FILE IS
+--------------------------------------------------------------------
+
+A copyright notice is not an open-source license.
+
+LICENSE in this repo is All Rights Reserved. That means the default
+rule of copyright applies: the owners keep every right that is not
+explicitly given away. This NOTICE states, in plain English, what
+was given away and what was not.
+
+GitHub being public is not a license. GitHub's terms let other users
+view and fork a public repository. Forking a page on GitHub is not
+permission to ship Icewear Vezzo, ROP 4, the music, the art, or this
+game as your product.
+
+--------------------------------------------------------------------
+OWNERS
+--------------------------------------------------------------------
+
+- Artist name, likeness, voice, and catalog:
+  Icewear Vezzo / Iced Up Records
+- Campaign and official GitHub record:
+  Digital Currensy Inc.
+- Campaign partner:
+  Foundation Media
+- Playable host of the official build:
+  Higgsfield (blue-cloud-787)
+
+--------------------------------------------------------------------
+WHAT YOU MAY DO
+--------------------------------------------------------------------
+
+- Play the official game at
+  https://blue-cloud-787.higgsfield.gg/
+  or on https://richoffpints.com
+- Stream the album through official music platforms
+- Read the source files in this repository
+- Link to the official site, the official game, and this repository
+- Use this repository as a portfolio reference for Digital Currensy Inc.
+  having shipped the campaign
+
+--------------------------------------------------------------------
+WHAT YOU MAY NOT DO
+--------------------------------------------------------------------
+
+- Ship a product named Icewear Vezzo, ROP 4, Rich Off Pints, or
+  any confusingly similar mark
+- Use the artist's name, face, voice, or likeness
+- Copy, host, or sell the theme music, album artwork, or campaign stills
+- Republish this game as your game, paid or free
+- Treat a GitHub fork as a license
+- Call this repository open source
+- Change this license to MIT, Apache, GPL, CC0, or anything else
+  that gives the catalog away
+
+--------------------------------------------------------------------
+PUBLIC DOMAIN — WHAT IS AND IS NOT
+--------------------------------------------------------------------
+
+Nothing in the ROP 4 campaign media is public domain.
+
+Not public domain, not CC0, not free to reuse:
+
+- Icewear Vezzo name and likeness
+- Rich Off Pints / ROP 4 marks
+- Album covers and official visual
+- theme.mp3 and any other music
+- Higgsfield / CloudFront campaign sprites, title art, city layers
+- The specific design, copy, and branded result cards in this game
+
+Public domain / public standards — these are not "the game":
+
+- The HTML5 canvas, Web Audio, and localStorage platform APIs
+  (web standards; they are not a license to this title)
+- Generic ideas such as "a three-lane traffic racer"
+  (ideas are not copyrightable; this implementation is)
+
+If this project later needs extra decoration that is not the artist
+(generic UI icons, placeholder cars for a stripped demo), use assets
+that are actually CC0 from a source that says CC0 — Kenney, Poly Haven,
+AmbientCG — and list them here. Do not relabel Icewear Vezzo art as
+public domain. That would be a lie and a rights problem.
+
+The theme song and album art stay out of this public repository on
+purpose. They are masters and artwork, not press-kit source.
+
+--------------------------------------------------------------------
+OFFICIAL SURFACES
+--------------------------------------------------------------------
+
+Play:     https://blue-cloud-787.higgsfield.gg/
+Campaign: https://richoffpints.com
+Album:    https://foundation-media.ffm.to/rop4
+Visual:   https://youtu.be/5SHpv38Vz3I
+Site repo: https://github.com/DigitalCurrensy/ICEWEAR-VEZZO-ROP4-WEBSITE
+
+This GitHub repository is the official public record and portfolio
+proof. It is not the store, not the DSP, and not a starter kit.

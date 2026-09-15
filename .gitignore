@@ -1,0 +1,16 @@
+# Campaign masters and art packs stay off the public tree.
+assets/
+public/assets/
+*.mp3
+*.zip
+*.wav
+*.ogg
+
+# Local junk
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+public/build/
+dist/
